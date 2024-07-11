@@ -1,52 +1,28 @@
-"use client";
-import React from "react";
-import { useForm } from "react-hook-form";
-import { z } from "zod";
-import {
-  Form,
-  FormField,
-  FormItem,
-  FormControl,
-} from "@/components/ui/form";
-import { Button } from "@/components/ui/button";
-import { Input } from "@/components/ui/input";
+import React, { useState } from 'react';
 
-const formSchema = z.object({
-  content: z.string().min(1),
-});
+export const ChatInput = ({ onSendMessage }) => {
+  const [input, setInput] = useState('');
 
-export const ChatInput = () => {
-  const form = useForm({
-    resolver: formSchema,
-    defaultValues: {
-      content: "",
-    },
-  });
-
-  //submit value is form
-  const onSubmit = (value) => {
-    console.log(value);
+  const handleSubmit = (event) => {
+    event.preventDefault();
+    if (input.trim() !== '') {
+      onSendMessage(input);
+      setInput('');
+    }
   };
 
   return (
-    <Form {...form}>
-      <form className="w-full" onSubmit={form.handleSubmit(onSubmit)}>
-        <FormField
-          control={form.control}
-          name="content"
-          render={({ field }) => (
-            <FormItem>
-              <FormControl >
-                <div className="flex items-center space-x-2">
-                  <Input placeholder="Enter your questions..." {...field} />
-                  <Button type="submit">Send</Button>
-                </div>
-              </FormControl>
-            </FormItem>
-          )}
-        />
-        
-      </form>
-    </Form>
+    <form onSubmit={handleSubmit} className="w-full flex p-4">
+      <input
+        type="text"
+        value={input}
+        onChange={(e) => setInput(e.target.value)}
+        placeholder="Type your message..."
+        className="flex-grow p-2 border border-gray-300 rounded-lg mr-4"
+      />
+      <button type="submit" className="p-2 bg-black text-white rounded-lg hover:bg-blue-600">
+        Send
+      </button>
+    </form>
   );
-};
+}

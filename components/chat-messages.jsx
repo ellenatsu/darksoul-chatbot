@@ -5,7 +5,7 @@ import { useRef } from "react";
 import { useChatScroll } from "@/hooks/use-chat-scroll";
 
 //in this chatbot, i won't save any conversation data...
-export const ChatMessages = () => {
+export const ChatMessages = ({messages}) => {
   // Refs
   const chatRef = useRef(null);
   const bottomRef = useRef(null);
@@ -20,12 +20,23 @@ export const ChatMessages = () => {
   });
 
   return (
-    <div ref={chatRef} className="w-full flex-1 flex flex-col gap-3 items-center overflow-y-auto">
-      <p>
-        To be continue: curretnly won't save any previous conversation data.
-      </p>
-      <p className="p-4 text-xl mt-10">Hello! Start the chat with a question about Dark Soul!</p>
-      <div className="flex flex-col-reverse mt-auto">Render messages</div>
+    <div ref={chatRef} className="w-full flex flex-col gap-3 items-center overflow-y-auto">
+      
+      <div className="flex flex-col-reverse mt-auto">
+      
+        {messages.length === 0 && (<p className="p-4 text-xl mt-10">Hello! Start the chat with a question about Dark Soul!</p>) }
+        {messages.length !== 0 && messages.map((message, index) => (
+          <div
+            key={index}
+            className={`p-2 m-2 rounded-lg ${
+              message.type === 'user' ? 'bg-blue-200 self-end' : 'bg-gray-100 self-start'
+            }`}
+          >
+            {message.type} : {message.text}
+          </div>
+        ))}
+      
+      </div>
       <div ref={bottomRef} />
     </div>
   );

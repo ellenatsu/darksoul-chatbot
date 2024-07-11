@@ -1,19 +1,31 @@
 import React from 'react'
-import { ChatInput } from '@/components/chat-input';
-import { ChatMessages } from '@/components/chat-messages';
+
+import { createVectorStore } from '@/utils/chromadbUtils';
+import {ChatContainer} from '@/components/chat';
 
 
-const HomePage = () => {
+const HomePage = async () => {
+  //init loading data to collection
+  let loading = true;
+  // try{
+  //   // const docs = await testCSVLoader();
+  //   // console.log({docs});
+  //   loading = await createVectorStore();
+  // }
+  // catch(e){
+  //   console.log("create vector store failed", e);
+  // }
   return (
-    <div className='bg-yellow-100 flex flex-col justify-between items-center min-h-screen w-full'>
-        <div className='p-2 mt-10'>Dark Souls Chatbot</div>
-        <ChatMessages />
-        <div className='w-full p-4 border-t border-gray-200 flex'>
-          <ChatInput />
-        </div>
-        
+    <div className='bg-yellow-50 flex flex-col h-screen'>
+        <div className='p-2 mt-2 text-center'>Dark Souls Chatbot</div>
+        { !loading && <div className='p-2 mt-10'>Initalizing chatbot with game data, please wait...</div>}
+        {loading && (
+          <div className="flex-grow">
+            <ChatContainer />
+          </div>
+        )}
     </div>
   )
 }
 
-export default HomePage;
+export default HomePage
