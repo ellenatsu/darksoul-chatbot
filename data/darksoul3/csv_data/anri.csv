@@ -1,0 +1,155 @@
+"behavior","subdialogue_id","subdialogue_text"
+"#0Talk-1st time","19000000","Oh, hello. How do you do."
+"#0Talk-1st time","19000001","I am Anri of Astora.
+Unkindled, like you."
+"#0Talk-1st time","19010001","I'm Anri of Astora.
+Unkindled, like you."
+"#0Talk-1st time","19000002","This is Horace. A friend and travelling companion."
+"#0Talk-1st time","19000003","Are you too in search of the Lords of Cinder?"
+"#0Talk-1st time","19000004","We are well along the road of sacrifices.
+Below us is the Crucifixion Woods."
+"#0Talk-1st time","19000005","Beyond the flooded woods lies Farron Keep,
+home of the Undead Legion.
+Further yet is the Cathedral of the Deep."
+"#0Talk-1st time","19000006","We seek the cathedral,
+home of the grim Aldrich."
+"#0Talk-1st time","19010006","We seek the cathedral,
+home of the grim Aldrich."
+"#0Talk-1st time","19000007","We may go our separate ways now,
+but we are both seekers of lords."
+"#0Talk-1st time","19000008","The next time we cross paths,
+one may find the other in a time of need."
+"#0Talk-1st time","19000009","May the flames guide your way."
+"#0Talk-2nd time","19000100","Oh, yes, Horace..."
+"#0Talk-2nd time","19000101","He's not very talkative."
+"#0Talk-2nd time","19000102","But don't think ill of him. He's an upstanding,
+kind-hearted knight, a fine partner for this gruelling journey."
+"#0Talk-2nd time","19010102","But don't think ill of him. He is an upstanding,
+kind-hearted knight, a fine partner for this gruelling journey."
+"#0Talk-2nd time","19000103","Without his help, I would have cursed this onerous duty long ago."
+"#0Talk-3rd time","19000200","We are well along the road of sacrifices.
+Below us is the Crucifixion Woods."
+"#0Talk-3rd time","19000201","Beyond the flooded woods lies Farron Keep,
+home of the Undead Legion.
+Further yet is the Cathedral of the Deep."
+"#0Talk-3rd time","19000202","We may go our separate ways now,
+but we are both seekers of lords."
+"#0Talk-3rd time","19000203","The next time we cross paths,
+one may find the other in a time of need."
+"#0Talk-3rd time","19000204","May the flames guide your way."
+"#0Talk-1st time","19000300","Oh, and we meet again."
+"#0Talk-1st time","19000301","We spoke before on the road of sacrifices. Anri of Astora."
+"#0Talk-1st time","19000302","I am well pleased to see you safe."
+"#0Talk-1st time","19010302","I am well pleased to see you safe."
+"#0Talk-1st time","19000303","We reached the Cathedral of the Deep,
+but Aldrich's coffin was empty."
+"#0Talk-1st time","19000304","The man-eater must have left for his true home."
+"#0Talk-1st time","19000305","The little doll in the empty coffin told me."
+"#0Talk-1st time","19000306","Aldrich is said to hail from Irithyll in the Boreal Valley,
+an ancient fabled city..."
+"#0Talk-1st time","19000307","A pilgrim told me that the city
+lies beyond Farron Keep."
+"#0Talk-1st time","19000308","And so becomes our destination..."
+"#0Talk-2nd time","19000400","Aldrich's honest home is Irithyll in the Boreal Valley,
+an ancient fabled city..."
+"#0Talk-2nd time","19000401","A pilgrim told me that the city
+lies beyond Farron Keep."
+"#0Talk-2nd time","19000402","And so becomes our destination..."
+"#0Talk-1st time","19000500","Oh, hello, how very fortunate."
+"#0Talk-1st time","19000501","Have you seen my companion, Horace?"
+"#0Talk-1st time","19000502","To my shame, I was snared by a trap, and we've become separated."
+"#0Talk-1st time","19000503","I've not been able to find him since."
+"#0Choose ""No"" to the 1st query","19000600","Yes, I see."
+"#0Choose ""No"" to the 1st query","19000601","Horace is a valiant knight. He can look after himself, no question."
+"#0Choose ""No"" to the 1st query","19000602","He's probably searching for me right now, with twice the resolve."
+"#0Choose ""No"" to the 1st query","19000603","If you happen upon him, please tell him."
+"#0Choose ""No"" to the 1st query","19000604","That I remain in the catacombs..."
+"#0Choose ""No"" to the 1st query","19000605","And will lay prism stones to guide him, as always."
+"#0Choose ""No"" to the 1st query","19000606","Please send him my word, I beg of you."
+"#0Choose ""No"" to the 1st query","19010606","Please send him word, I beg of you."
+"#0Choose ""No"" to the 1st query","19000607","May the flames guide your way."
+"#0Talk-After choosing ""No"" to the 1st query","19000700","If you happen upon Horace, please tell him."
+"#0Talk-After choosing ""No"" to the 1st query","19000701","That I remain in the catacombs..."
+"#0Talk-After choosing ""No"" to the 1st query","19000702","And will lay prism stones to guide him, as always."
+"#0Talk-After choosing ""No"" to the 1st query","19000703","Please send him my word, I beg of you."
+"#0Talk-After choosing ""No"" to the 1st query","19010703","Please send him word, I beg of you."
+"#0Talk-After choosing ""No"" to the 1st query","19000704","May the flames guide your way."
+"#0Talk-1st time","19000800","Ah, hello, we meet again."
+"#0Talk-1st time","19000801","Have you seen Horace anywhere?"
+"#0Talk-2nd time after choosing ""No"" to the 2nd query","19001100","Oh, yes, I see..."
+"#0Talk-2nd time after choosing ""No"" to the 2nd query","19001101","I've searched high and low, with no luck.
+Perhaps he's left the catacombs."
+"#0Talk-2nd time after choosing ""No"" to the 2nd query","19001102","Oh, Horace. Where have you run off to?"
+"#0Choose ""No"" to the 2nd query, or choosing ""Say nothing"" to the 3rd query","19001200","Oh, Horace. Where have you run off to?"
+"#0Choose ""No"" to the 2nd query, or choosing ""Say nothing"" to the 3rd query","19001201","Have you abandoned me?
+No, what a horrible thought..."
+"#0Choose ""Tell of the Smouldering Lake"" to the 2nd or 3rd query","19000900","Goodness me."
+"#0Choose ""Tell of the Smouldering Lake"" to the 2nd or 3rd query","19000901","To think there'd be a lake so deep within these catacombs."
+"#0Choose ""Tell of the Smouldering Lake"" to the 2nd or 3rd query","19010901","To think there'd be a lake so deep within these catacombs."
+"#0Choose ""Tell of the Smouldering Lake"" to the 2nd or 3rd query","19000902","What a relief.
+I knew that Horace was alive, and wouldn't stray far."
+"#0Choose ""Tell of the Smouldering Lake"" to the 2nd or 3rd query","19000903","Thank you. We are both in your debt."
+"#0Choose ""Tell of the Smouldering Lake"" to the 2nd or 3rd query","19000904","This hardly expresses my gratitude,
+but it'll have to do for now."
+"#0Choose ""Tell of the Smouldering Lake"" to the 2nd or 3rd query","19000905","Please, take it.
+And may the flames guide your way."
+"#0Talk-After choosing ""Tell of the Smouldering Lake"" to the 2nd or 3rd query","19001000","I will soon head to the lake."
+"#0Talk-After choosing ""Tell of the Smouldering Lake"" to the 2nd or 3rd query","19001001","Thank you. We are both in your debt."
+"#0Talk-After choosing ""Tell of the Smouldering Lake"" to the 2nd or 3rd query","19001002","May the flames guide your way."
+"#0Talk-1st time after choosing ""No"" or ""Say nothing""","19001300","Oh, I thought it might be you. Good to see you."
+"#0Talk-1st time after choosing ""No"" or ""Say nothing""","19001301","I never managed to find Horace."
+"#0Talk-1st time after choosing ""No"" or ""Say nothing""","19001302","But my duty must be done, even alone.
+As an unkindled Lordseeker."
+"#0Talk-1st time after choosing ""No"" or ""Say nothing""","19001303","For the children I knew,
+bless their souls."
+"#0Talk-1st time after choosing ""No"" or ""Say nothing""","19001304","We all have our reasons, don't we?"
+"#0Talk-1st time after choosing ""No"" or ""Say nothing""","19001305","Please, take this.
+Recompense for my foolish request."
+"#0Talk-1st time after choosing ""No"" or ""Say nothing""","19001306","And also a token of protection.
+May the flames guide your way."
+"#0Talk-1st time after choosing ""No"" or ""Say nothing""","19011306","And also a token of protection.
+May the flames guide your way."
+"#0Talk-1st time after killing Horace & choosing ""Tell of the Smouldering Lake""","19001300","Oh, I thought it might be you. Good to see you."
+"#0Talk-1st time after killing Horace & choosing ""Tell of the Smouldering Lake""","19001301","I never managed to find Horace."
+"#0Talk-1st time after killing Horace & choosing ""Tell of the Smouldering Lake""","19001302","But my duty must be done, even alone.
+As an unkindled Lordseeker."
+"#0Talk-1st time after killing Horace & choosing ""Tell of the Smouldering Lake""","19001303","For the children I knew,
+bless their souls."
+"#0Talk-1st time after killing Horace & choosing ""Tell of the Smouldering Lake""","19001304","We all have our reasons, don't we?"
+"#0Talk-2nd time","19001400","Ahh, you are brave indeed. To face your duty alone."
+"#0Talk-2nd time","19001401","I would do well to learn from you."
+"#0Talk-2nd time","19001402","May the flames guide your way."
+"#0Summoned to fight Aldrich after choosing ""No"" or ""Say nothing""","19002000","Ahh, I thought it might be you."
+"#0Summoned to fight Aldrich after choosing ""No"" or ""Say nothing""","19012000","Mmm, I thought it might be you."
+"#0Summoned to fight Aldrich after choosing ""No"" or ""Say nothing""","19002001","Then I'm afraid Horace..."
+"#0Summoned to fight Aldrich after choosing ""No"" or ""Say nothing""","19002002","...No, this only bolsters my resolve."
+"#0Summoned to fight Aldrich after choosing ""No"" or ""Say nothing""","19002003","Please. Lend me your strength."
+"#0Summoned to fight Aldrich after choosing ""No"" or ""Say nothing""","19002004","Help me vanquish Aldrich, the man-eating fiend."
+"#0Summoned to fight Aldrich after choosing ""Tell of the Smouldering Lake""","19002000","Ahh, I thought it might be you."
+"#0Summoned to fight Aldrich after choosing ""Tell of the Smouldering Lake""","19012000","Mmm, I thought it might be you."
+"#0Summoned to fight Aldrich after choosing ""Tell of the Smouldering Lake""","19002002","...No, this only bolsters my resolve."
+"#0Summoned to fight Aldrich after choosing ""Tell of the Smouldering Lake""","19002003","Please. Lend me your strength."
+"#0Summoned to fight Aldrich after choosing ""Tell of the Smouldering Lake""","19002004","Help me vanquish Aldrich, the man-eating fiend."
+"#0After helping defeat Aldrich","19002101","I owe this to you. Thank you. Truly."
+"#0After helping defeat Aldrich","19002102","Horace, we've done it, we really have..."
+"#0Upon being attacked-1st time","19001503","What's happened to you?"
+"#0Upon being attacked-2nd time","19001504","Please, stop this!"
+"#0Upon being attacked & made hostile","19001600","You've gone Hollow, have you?"
+"#0Upon being attacked & made hostile","19001601","Then I shall put you to rest."
+"#0Upon being attacked & made hostile","19001602","Horace! Join me!"
+"#0Upon being attacked & made hostile, after leaving Horace","19001600","You've gone Hollow, have you?"
+"#0Upon being attacked & made hostile, after leaving Horace","19001601","Then I shall put you to rest."
+"#0Upon dying","19001902","Oh, Horace, everyone, forgive me..."
+"#0Upon dying","19001903","I was weak on my own..."
+"#0After becoming hostole & the protagonist kills Horace in front of Anri","19001700","Oh, Horace, why..."
+"#0After becoming hostole & the protagonist kills Horace in front of Anri","19001701","Don't leave me, not you..."
+"#0After becoming hostole & the protagonist kills Horace in front of Anri","19001702","Not like the others..."
+"#0After becoming hostole & the protagonist kills Horace in front of Anri","19001703","Oh, Horace, Horace..."
+"#0Upon dying, after leaving Horace, or killing Horace in front of Anri","19001800","..."
+"#0Upon dying, after leaving Horace, or killing Horace in front of Anri","19001802","Forgive me, Horace..."
+"#0Upon dying, after leaving Horace, or killing Horace in front of Anri","19001803","It pains me...to leave you..."
+"#0Upon dying, after leaving Horace, or killing Horace in front of Anri","19001500","##..."
+"#0Upon dying, after leaving Horace, or killing Horace in front of Anri","19001501","##..."
+"#0Upon dying, after leaving Horace, or killing Horace in front of Anri","19001603","##And may the flames watch over us!"
+"#0Upon dying, after leaving Horace, or killing Horace in front of Anri","19001900","##..."
+"#0Upon dying, after leaving Horace, or killing Horace in front of Anri","19002100","##Yes...we did it..."

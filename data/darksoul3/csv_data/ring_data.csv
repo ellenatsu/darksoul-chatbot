@@ -1,0 +1,618 @@
+id,name,remark,description
+20000,Life Ring,Raises maximum HP,"A generations-old ring set with a small red jewel.
+Raises maximum HP.
+
+Rings have unique powers,
+and their discovery will do much
+to ease a wearisome journey."
+20010,Chloranthy Ring,Raises stamina recovery speed,"This old ring is named for its decorative green
+blossom, but its luster is long since faded.
+
+Raises stamina recovery speed."
+20020,Havel's Ring,Increases maximum load,"A ring for warriors keen on heavy accoutrements.
+Increases maximum equip load.
+
+This ring was named after Havel the Rock,
+the battlefield compatriot of Gwyn, the First Lord.
+
+The art of war has been a constant since ages past,
+and those who would follow in Havel's footsteps
+are no fewer now than in his own day."
+20030,Ring of Favor,"Increases HP, stamina, and maximum equip load","A ring symbolizing the favor of the Goddess Fina,
+whose ""fateful beauty"" is mentioned in legend.
+
+True to the fickle nature of Fina's favor,
+her ring increases max HP, stamina,
+and maximum equip load."
+20040,Ring of Steel Protection,Increases physical damage absorption,"Ring of the Knight King of ancient legend.
+Increases physical damage absorption.
+
+The Knight King was said to be
+lined with steel on the inside,
+such that even the talons of
+mighty dragons did him little harm."
+20050,Flame Stoneplate Ring,Increases fire damage absorption,"Stoneplates are symbols of true knights,
+and red stoneplates are granted to those
+who valiantly face Chaos.
+
+Increases fire damage absorption."
+20060,Thunder Stoneplate Ring,Increases lightning damage absorption,"Stoneplates are symbols of true knights,
+and yellow stoneplates are granted to
+those who would become dragons.
+
+Increases lightning damage absorption."
+20070,Magic Stoneplate Ring,Increases magic damage absorption,"Stoneplates are symbols of true knights,
+and blue stoneplates are granted to
+the royal palace guards.
+
+Increases magic damage absorption."
+20080,Dark Stoneplate Ring,Increases dark damage absorption,"Stoneplates are symbols of true knights,
+and dark purple stoneplates are granted to
+Undead knights.
+
+Increases dark damage absorption."
+20090,Speckled Stoneplate Ring,"Slightly ups magic, lightning, fire and dark damage absorption","Stoneplates are symbols of true knights,
+and speckled stoneplates are granted to
+those who face an endless journey.
+
+Slightly increases magic, lightning, fire
+and dark damage absorption."
+20100,Bloodbite Ring,Increases bleed resistance,"One of the bite rings native to Carim.
+Increases bleed resistance.
+
+The crafting of these rings is forbidden,
+perhaps owing to a fear of malleable stone.
+Clerics, however, dabble freely in the art."
+20110,Poisonbite Ring,Increases poison resistance,"One of the bite rings native to Carim.
+Increases poison resistance.
+
+The crafting of these rings is forbidden,
+perhaps owing to a fear of malleable stone.
+Clerics, however, dabble freely in the art."
+20120,Cursebite Ring,Increases curse resistance,"One of the bite rings native to Carim.
+Increases curse resistance.
+
+The crafting of these rings is forbidden,
+perhaps owing to a fear of malleable stone.
+Clerics, however, dabble freely in the art."
+20130,Fleshbite Ring,"Raises poison, bleed, curse and frost resist","One of the bite rings native to Carim.
+Raises poison, bleed, frost and curse resist.
+
+The crafting of these rings is forbidden,
+perhaps owing to a fear of malleable stone.
+Clerics, however, dabble freely in the art."
+20140,Wood Grain Ring,Slows equipment degradation,"This special ring crafted in an Eastern land is made of metal,
+but with a wood grain crest on its surface.
+Slows equipment degradation.
+
+Wielders of swords originating in the same region
+follow a practice of inscribing special words
+on the blades of their swords,
+and are naturally drawn to this ring."
+20150,Scholar Ring,Increases intelligence,"A ring engraved with a portrait of a scholar.
+Increases intelligence.
+
+In Lothric, the Scholar has long been considered
+one of the Three Pillars of the king's rule,
+and is therefore master of the Grand Archives."
+20160,Priestess Ring,Increases faith,"A ring engraved with a portrait of the High Priestess.
+Increases faith.
+
+In Lothric, the High Priestess has long been
+considered one of the Three Pillars of the king's rule.
+The High Priestess also served as the prince's wet nurse."
+20170,Red Tearstone Ring,Boosts attacks when HP is low,"A ring set with a large rare tearstone jewel.
+Temporarily boosts attack when HP is low.
+
+This stone is said to be a tear of mourning
+of the goddess Caitha, and of course,
+tears are always more beautiful near death."
+20180,Blue Tearstone Ring,Increases damage absorption when HP is low,"A ring set with a large rare tearstone jewel.
+Temporarily boosts damage absorption when HP is low.
+
+This stone is said to be a tear of sorrow
+of the goddess Caitha, and of course,
+tears are always more beautiful near death."
+20190,Wolf Ring,Increases poise,"Ring associated with Abysswalker Artorias,
+one of the Four Knights of Gwyn, the First Lord.
+
+Increases poise.
+
+Artorias had an unbendable will of steel,
+and was unmatched with a greatsword."
+20200,Leo Ring,Strengthens thrust weapon counter attacks,"Ring associated with Dragon Slayer Ornstein,
+one of the Four Knights of Gwyn, the First Lord.
+
+Strengthens thrust weapon counter attacks.
+
+Ornstein was the first knight of the sun's eldest born,
+and his cross spear is said to
+have pierced scales made of stone."
+20210,Ring of Sacrifice,"Lose nothing upon death, but ring breaks","This mystical ring was created in a sacrificial rite of
+Velka, the Goddess of Sin.
+
+Its wearer will lose nothing upon death,
+but the ring itself breaks.
+
+A sacrifice is only worth as much as the life it spares."
+20230,Young Dragon Ring,Boosts sorceries,"Ring given in Vinheim, home of sorcery,
+when newly ordained as a sorcerer.
+
+Boosts sorceries.
+
+Apropos to the Dragon School,
+the seal depicts an everlasting dragon.
+A young dragon presages the great length
+of the journey to mastery."
+20231,Bellowing Dragoncrest Ring,Greatly boosts sorceries,"A special ring given to those who are deemed fit
+to undertake the journey of discovery in Vinheim,
+home of sorcery.
+
+Greatly boosts sorceries.
+
+Apropos to the Dragon School,
+the seal depicts an everlasting dragon.
+A bellowing dragon symbolizes the true nature
+of the consummate sorcerer."
+20240,Great Swamp Ring,Boosts pyromancies,"Ring said to be chiseled from the bone of
+a flame salamander by blighted Pyromancers
+living in the Great Swamp.
+
+Boosts pyromancies.
+
+It is believed that salamanders
+are the descendants of demons,
+born of the Chaos Flame,
+from which Pyromancy is also said to have originated."
+20241,Witch's Ring,Greatly boosts pyromancies,"The Witch of Izalith and her daughters,
+scorched by the Flame of Chaos,
+taught humans the art of pyromancy
+and offered them this ring.
+
+Greatly boosts pyromancies.
+
+Every pyromancer is familiar with the parable that
+tells of the witches espousing the need to fear the flame,
+and teaching the art of pyromancy to men in hopes
+that they might learn to control it."
+20250,Morne's Ring,Boosts miracles,"A malformed ring given to knights of Carim.
+
+Boosts miracles.
+
+Morne served the goddess Caitha
+and later became an apostle of the Archbishop.
+They labored together to provide comfort to the suffering."
+20251,Ring of the Sun's First Born,Greatly boosts miracles,"Ring of the Sun's first born,
+who inherited the light of Gwyn, the First Lord.
+
+Greatly boosts miracles.
+
+The Sun's first born was once a god of war,
+until he was stripped of his stature
+as punishment for his foolishness.
+No wonder his very name
+has slipped from the annals of history."
+20270,Lingering Dragoncrest Ring,Extends length of spell effect,"A special ring given to those who are deemed fit
+to undertake the journey of discovery in Vinheim,
+home of sorcery.
+
+Extends length of spell effect.
+
+Apropos to the Dragon School,
+the seal depicts an everlasting dragon.
+A lingering dragon symbolizes the true nature
+of the consummate sorcerer."
+20280,Sage Ring,Shortens spell casting time,"A ring given to Farron's Undead Legion
+by one of the preacher twins,
+known more commonly as the Crystal Sages.
+
+Shortens spell casting time.
+
+The sorcerers of Farron's Abyss Watchers
+were known to be lonesome warriors
+who would only rely upon more pragmatic spells."
+20290,Slumbering Dragoncrest Ring,Masks the sounds of its wearer,"Ring of a clandestine guild of sorcerers based in Vinheim,
+home of sorcery.
+
+Masks the sound of its wearer.
+
+The Dragon School held effective sovereignty over Vinheim,
+with a great many adept assassins at its disposal."
+20300,Dusk Crown Ring,"Reduces spell FP consumption, but also lowers HP","Leaf-colored crown ring bestowed
+upon the princess of Oolacile,
+ancient land of golden sorceries.
+
+Reduces spell FP consumption, but also lowers HP.
+
+Oolacile is synonymous for its lost sorceries,
+of which the xanthous sorcerers are dedicated scholars.
+This crown ring is a rare artifact of great magic heritage."
+20310,Saint's Ring,Allows attunement of additional spells,"A ring bestowed upon a Carim saint.
+Allows attunement of additional spells.
+
+In Carim, the saints give voice to the ancient tales.
+They memorize countless cumbersome sacred books
+and read them in sonorous tones,
+a function for which they are widely renowned."
+20320,Deep Ring,Allows attunement of additional spells,"A ring bestowed upon the Deacons of the Cathedral of the Deep.
+Allows attunement of additional spells.
+
+In the Cathedral slumber things most terrible,
+and as such, the deacons require a grand narrative,
+to ensure they do not falter in their duty.
+A philosophy, to ward away the madness beckoned
+by the grotesqueries at hand."
+20330,Darkmoon Ring,Adds many slots for attunement,"Ring of the moon deity Gwyndolin,
+youngest son of Gwyn, the First Lord.
+
+Adds many slots for attunement.
+
+Gwyndolin, also known as the Dark Sun,
+commands the Darkmoon Knights,
+and bestows this ring upon the best of them."
+20370,Hawk Ring,Extends the range of bows,"Ring associated with Hawkeye Gough,
+one of the Four Knights of Gwyn, the First Lord.
+
+Extends the range of arrows.
+
+In his later years, the giant Gough was blinded,
+but this did not prevent him from striking down
+a calamitous dragon with his Greatbow."
+20380,Hornet Ring,Boosts critical attacks,"Ring associated with the Lord's Blade Ciaran,
+one of the Four Knights of Gwyn, the First Lord.
+
+Boosts critical attacks.
+
+The masked Ciaran was the only woman
+to serve in Gwyn's Four Knights,
+and her curved sword granted a swift death
+to any and all enemies of the throne."
+20390,Covetous Gold Serpent Ring,Fallen foes are more likely to drop items,"A gold ring depicting a snake that could have been,
+but never was, a dragon.
+Fallen foes are more likely to drop items.
+
+Snakes are known as creatures of great avarice,
+devouring prey even larger than themselves
+by swallowing them whole.
+
+If one's shackles are cause for discontent,
+perhaps it is time for some old-fashioned greed."
+20400,Covetous Silver Serpent Ring,Fallen foes yield more souls,"A silver ring depicting a snake that could have been,
+but never was, a dragon.
+Fallen foes yield more souls.
+
+Snakes are known as creatures of great avarice,
+devouring prey even larger than themselves
+by swallowing them whole.
+
+If one's shackles are cause for discontent,
+perhaps it is time for some old-fashioned greed."
+20410,Sun Princess Ring,Gradually restores HP,"Ring associated with Gwynevere,
+princess of sunlight and eldest daughter of
+Gwyn, the First Lord.
+
+The ring is vaguely warm, like a beam of sunlight,
+and gradually restores HP.
+
+Gwynevere left her home with a great many other deities,
+and became a wife and mother,
+raising several heavenly children."
+20420,Silvercat Ring,Prevents damage from falling,"Silver ring depicting a leaping feline.
+Prevents damage from falling.
+
+In the Age of Gods, or possibly just following it,
+an old cat was said to speak a human tongue,
+with the voice of an old woman,
+and the form of a fanciful immortal."
+20430,Skull Ring,Easier to be detected by enemies,"One of Courland's transposed wonders.
+Derived from the soul of a Soulfeeder.
+
+Easier to be detected by enemies.
+
+The Soulfeeder was a beast that
+insatiably absorbed souls to feed its own power.
+Even after its accursed corpse was burned,
+it is said that the pungent stench of souls
+left the air permanently stained."
+20440,Untrue White Ring,Take the appearance of a phantom,"One of the illusory rings worn by the Hollows of Londor.
+
+Take the appearance of a phantom.
+
+The Hollows of Londor are wretchedly aged,
+fraught with deceit, and dubiously secretive.
+It is no wonder that they are deeply detested."
+20450,Carthus Milkring,Slightly boosts dexterity and obscures rolling,"Ring worn by warriors of the sand kingdom, Carthus.
+Slightly boosts dexterity
+and obscures the wearer while rolling.
+
+The sword technique of Carthus allows for 
+fluid movement with a curved sword.
+Masters of the technique are said to
+dazzle their opponents by moving
+as weightlessly as a grain of sand.
+They live for their High Lord Wolnir,
+conqueror of most kingdoms known to their people."
+20460,Knight's Ring,Increases strength,"Ring engraved with a portrait of a knight.
+Increases strength.
+
+In Lothric, the Knight has long been considered
+one of the Three Pillars of the king's rule,
+and were thus allowed to rear dragons."
+20470,Hunter's Ring,Increases dexterity,"Ring engraved with a portrait of a hunter.
+Increases dexterity.
+
+The hunters serve Lothric on the fringes and in the shadows.
+For generations, rulers of Lothric have relied especially
+upon the Black Hand hunters to punish enemies
+in ways that the king's Three Pillars cannot."
+20480,Knight Slayer's Ring,Enemies lose more stamina when guarding attacks,"Ring of the savage Tsorig,
+more commonly known as the Knight Slayer.
+
+Enemies lose more stamina when guarding attacks.
+
+Long ago, Tsorig engaged the guardians
+of an ancient city in a bloody confrontation,
+and returned with their rings as his prize,
+still frozen on their dismembered fingers."
+20490,Magic Clutch Ring,Increases magic attack but compromises damage absorption,"Ring depicting a hand grasping a blue stone.
+Increases magic attack,
+but compromises damage absorption.
+
+An old fable in Londor claims that the lure of
+the clutch ring reaches out to the crestfallen,
+who might otherwise be overcome by despair."
+20500,Lightning Clutch Ring,Increases lightning attack but compromises damage absorption,"Ring depicting a hand grasping a yellow stone.
+Increases lightning attack,
+but compromises damage absorption.
+
+An old fable in Londor claims that the lure of
+the clutch ring reaches out to the crestfallen,
+who might otherwise be overcome by despair."
+20510,Fire Clutch Ring,Increases fire attack but compromises damage absorption,"Ring depicting a hand grasping a red stone.
+Increases fire attack,
+but compromises damage absorption.
+
+An old fable in Londor claims that the lure of
+the clutch ring reaches out to the crestfallen,
+who might otherwise be overcome by despair."
+20520,Dark Clutch Ring,Increases dark attack but compromises damage absorption,"Ring depicting a hand grasping a purple stone.
+Increases dark attack,
+but compromises damage absorption.
+
+An old fable in Londor claims that the lure of
+the clutch ring reaches out to the crestfallen,
+who might otherwise be overcome by despair."
+20540,Flynn's Ring,Lowering equip load increases attack,"Ring of Flynn, the eulogized thief.
+Lowering equip load increases attack power.
+
+Flynn fought with the wind on his side,
+and was a hero among the weak and poor,
+yet even his admirers knew that
+it was little more than an idyllic fable."
+20550,Prisoner's Chain,"Increases VGR, END and VIT, but take more damage","Portion of a steel chain used to restrain Gundyr.
+Gain vigor, endurance, and vitality, but take extra damage.
+
+A prisoner is one who has staked everything on a belief,
+a proclivity most apparent in the greatest of champions."
+20560,Untrue Dark Ring,Retain human appearance while Hollow,"One of the illusory rings worn by the Hollows of Londor.
+
+Retain human appearance while Hollow.
+
+The Hollows of Londor are wretchedly aged,
+fraught with deceit, and dubiously secretive.
+It is no wonder that they are deeply detested."
+20580,Obscuring Ring,Obscures wearer while far away,"Ring bestowed upon the Fingers of Rosaria,
+invaders who seek tongues for their goddess.
+
+Hides the presence of the wearer when far away.
+
+It is said that Rosaria, the mother of rebirth,
+was robbed of her tongue by her firstborn,
+and has been waiting for their return ever since."
+20590,Ring of the Evil Eye,Absorb HP from each defeated foe,"This ring captured the foul spirit of an evil eye,
+a creature that ravaged Astora.
+
+Absorb HP from each defeated foe.
+
+The horrid spirit nearly destroyed Astora,
+but was eventually defeated by
+""the sword of one most noble."""
+20600,Calamity Ring,Receive double damage,"A ring made from the orange eye of a calamitous dragon.
+Receive double damage.
+
+This ring has no useful powers,
+and is merely a symbol of dragon worship,
+a thing quietly passed down
+amongst its most fervent adherents,
+some of whom become convinced the task
+has been bestowed upon them as a sacred duty."
+20610,Farron Ring,Reduces Skill FP consumption,"A ring given to Undead Legion of Farron.
+Reduces Skill FP consumption.
+
+The Abyss Watchers, for their hunting,
+required a sword technique that
+went beyond any existing art.
+Wolf's blood provided just that,
+and this ring further extends the effect."
+20620,Aldrich's Ruby,Recovers HP from critical attacks,"A malformed ring left by Aldrich, Saint of the Deep.
+Recovers HP from critical attacks.
+
+Aldrich, infamous for his appetite for flesh,
+apparently had the desire to share with others
+his joy of imbibing the final shudders of life
+while luxuriating in his victim's screams."
+20630,Aldrich's Sapphire,Recovers FP from critical attacks,"A malformed ring left by Aldrich, Saint of the Deep.
+Recovers FP from critical attacks.
+
+Aldrich, infamous for his appetite for flesh,
+apparently had the desire to share with others
+his joy of imbibing the final shudders of life
+while luxuriating in his victim's screams."
+20660,Lloyd's Sword Ring,Boosts attacks when HP is full,"Ring given to knights of the Way of White.
+Depicts Allfather Lloyd's Sword of Law.
+
+Boosts attack power when HP is full.
+
+Much time has passed since the worship of Lloyd
+was common in the Way of White.
+The clerics of Carim had always strongly asserted that
+Lloyd was a derivative fraud,
+and that the Allfather title was self-proclaimed."
+20670,Lloyd's Shield Ring,Boosts damage absorption when HP is full,"Ring given to knights of the Way of White.
+Depicts Allfather Lloyd's Shield of Caste.
+
+Boosts damage absorption when HP is full.
+
+Much time has passed since the worship of Lloyd
+was common in the Way of White.
+The clerics of Carim had always strongly asserted that
+Lloyd was a derivative fraud,
+and that the Allfather title was self-proclaimed."
+20700,Estus Ring,Increases HP restored with Estus Flask,"A green ring crafted from shards.
+Increases HP restored by Estus Flask.
+
+This ring was entrusted to a certain Fire Keeper,
+but in the end she never met her champion,
+and the ensuing tragic farce became
+a favorite tale of the masses."
+20710,Ashen Estus Ring,Increases FP restored with Ashen Estus Flask,"Gray crystalline ring crafted from shards.
+Increases FP restored by Ashen Estus Flask.
+
+Once a treasure brought before Lothric's Queen,
+she had it enshrined in the Cemetery of Untended Graves,
+so that one day an Unkindled might profit from its use."
+20720,Horsehoof Ring,Boosts kick effect,"An old ring with a seal depicting a horse's hoof.
+Boosts kick effect.
+
+Unbreakable Patches adored this ring and the feeling that
+it gave it him when he kicked his marks
+into the depths of treacherous traps,
+but suffered no shortage of ridicule from his associates
+for relying so heavily on the tired old trick.
+
+But who is the sorrier? The horse who knows only to kick,
+or the fool who approaches the old beast without thought?"
+20730,Carthus Bloodring,"Boosts rolling invincibility, at the cost of defense","Ring worn by warriors of the sand kingdom, Carthus.
+Boosts rolling invincibility, at the cost of defense.
+
+The sword technique of Carthus allows for
+fluid movement with a curved sword.
+Masters of the technique are said to dazzle their opponents
+by moving as weightlessly as a grain of sand.
+They live for their High Lord Wolnir,
+conqueror of most kingdoms known to their people."
+20740,Reversal Ring,Males can perform female actions and vice versa,"A divine ring granted to
+the Darkmoon Gwyndolin in his youth.
+
+Causes males to perform female actions,
+and vice-versa.
+
+Gwyndolin was raised like a daughter
+through the aura of the moon,
+and was said to behave like a sullen brooding goddess."
+20750,Pontiff's Right Eye,"Boosts attacks, as long as attacking persists","Bewitched ring that Pontiff Sulyvahn
+bestowed upon his knights.
+
+Boosts attacks, as long as attacking persists.
+
+Knights who peer into the black orb
+are lured into battles of death,
+transformed into frenzied beasts.
+No wonder the Pontiff only provides these rings
+to those dispatched to foreign lands."
+20790,Pontiff's Left Eye,Recovers HP with successive attacks,"Bewitched ring that Pontiff Sulyvahn
+bestowed upon his knights.
+
+Recovers HP with successive attacks.
+
+Knights who peer into the black orb
+are lured into battles of death,
+transformed into frenzied beasts.
+No wonder the Pontiff only provides these rings
+to those dispatched to foreign lands."
+20830,Dragonscale Ring,Reduces damage from backstabs,"Ring of Oceiros, former king of Lothric.
+Reduces damage from backstabs.
+
+In his later years,
+Oceiros became fascinated with dragons.
+After going mad,
+he was more commonly known as the Consumed King.
+Many assassins were dispatched to his domain,
+but none returned.
+
+The Consumed King ascribed his resilience
+to the divine protection of the dragon scale."
+21000,Chillbite Ring,Increases frost resistance,"One of the bite rings native to Carim.
+Increases frost resistance.
+
+This ring would never grace Friede's hand,
+for the painting and its frost became her home."
+20220,##Rare Ring of Sacrifice,"Breaks on death, but nothing lost, nullifies curse","This mystical ring was created in a sacrificial rite of
+Velka, the Goddess of Sin.
+This magenta-shaded ring is especially rare.
+
+Its wearer will lose nothing upon death,
+and will be freed from any curse whatsoever,
+but the ring itself breaks.
+
+A sacrifice is only worth as much as the life it spares."
+20570,##Yorgh's Ring,Sometimes deflects spells,"Ring of Sir Yorgh, who sought the blood
+of a dragon and invaded Shulva.
+Can deflect spells.
+
+When Sir Yorgh faced Sinh, the slumbering dragon,
+he drew blood with a flash of his steel,
+but Sinh responded by spewing forth
+the poison that had long brewed within him,
+blanketing the city in a miasmic cloud."
+20690,##Ring of Hiding,Hides the wearer from Dark Spirits at a distance,"Masks one's presence from adversaries.
+Hides the wearer from Dark Spirits at a distance.
+
+The wearer's presence is obscured,
+concealing their very existence from invaders of that world.
+However, if permitted to get close, the effect will fade."
+20760,##Ring of Sustained Toughness,"Boosts defense, as long as attacking persists","Wearer's will to fight is converted into strength.
+Boosts defense,
+as long as attacking persists.
+
+The unnatural ability of a late hero
+dwells within this ring,
+the use of which was permitted
+to only a select and valiant few."
+20770,##Ring of Sustained Energy,"Boosts stamina recovery speed, as long as attacking persists","Wearer's will to fight is converted into strength.
+Boosts stamina recovery speed,
+as long as attacking persists.
+
+The unnatural ability of a late hero
+dwells within this ring,
+the use of which was permitted
+to only a select and valiant few."
+20780,##Ring of Sustained Magic,"Boosts spells, as long as attacking persists","Wearer's will to fight is converted into strength.
+Boosts spells,
+as long as attacking persists.
+
+The unnatural ability of a late hero
+dwells within this ring,
+the use of which was permitted
+to only a select and valiant few."
+20800,##Ring of Sustained Essence,Recovers CP with successive attacks,"Wearer's will to fight is converted into strength.
+Recovers FP with successive attacks.
+
+The unnatural ability of a late hero
+dwells within this ring,
+the use of which was permitted
+to only a select and valiant few."
+20810,##Ring of Sustained Might,Adds extra damage with successive attacks,"Wearer's will to fight is converted into strength.
+Adds extra damage with successive attacks.
+
+The unnatural ability of a late hero
+dwells within this ring,
+the use of which was permitted
+to only a select and valiant few."
+20820,##Ring of Sustained Fortune,Increases drop rate with successive attacks,"Wearer's will to fight is converted into strength.
+Increases drop rate with successive attacks.
+
+The unnatural ability of a late hero
+dwells within this ring,
+the use of which was permitted
+to only a select and valiant few."
