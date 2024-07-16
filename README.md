@@ -1,8 +1,9 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+This is a [Next.js](https://nextjs.org/) project 
 ## RAG chatbot
-database: Chroma local database
-RAG chain: langchain
-AI LLM model: Llama-3 , hosted by groq 
+1. database: Chroma local database
+2. RAG chain: langchain
+3. AI LLM model: Llama-3 , hosted by groq 
+
 
 ## TODO list
 1. Initial RAG chain at the beginning
